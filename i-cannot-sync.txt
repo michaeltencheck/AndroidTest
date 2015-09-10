@@ -1,0 +1,1 @@
+i can not sync the github due to error: RPC failed; result=52, HTTP code = 0, who can help me.
